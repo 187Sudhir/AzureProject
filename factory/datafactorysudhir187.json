@@ -1,0 +1,9 @@
+{
+	"name": "datafactorysudhir187",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f3fc764-800c-49f0-875d-2da66e9d2aca",
+		"tenantId": "9e9dfab1-f3de-43e0-8b1f-1fa76a8c0f7b"
+	}
+}
