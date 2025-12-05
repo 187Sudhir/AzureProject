@@ -2,7 +2,7 @@
 	"name": "linkedservicefromAzureSQLDatabase",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
-		"description": "This linked service will connect with external source to read the data.",
+		"description": "This linked service will connect external source to ADF.\nUsing this connection data will be read from external sources.",
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
